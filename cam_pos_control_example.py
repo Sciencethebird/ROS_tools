@@ -1,3 +1,4 @@
+# A simple sample code demonstrating how to move gazebo camera using rospy
 import rospy
 from std_msgs.msg import String
 from gazebo_msgs.msg import ModelState
