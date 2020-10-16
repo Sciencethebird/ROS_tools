@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+
+# extract rgb and depth image from gazebo camera ros topic and save them
 from __future__ import print_function
 
 import roslib
